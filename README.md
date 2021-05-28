@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <h1 align="center">Hi 👋, I'm M. Dinesh Kumar</h1>
 <h3 align="center">A web developer enthusiast and melomaniac 🎵</h3>
 
@@ -7,9 +8,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/m-dinesh-kumar-0a4a3a203/" class="fa fa-linkedin" target="blank"><img align="center" src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" alt="https://www.linkedin.com/in/m-dinesh-kumar-0a4a3a203/" height="30" width="40" /></a>
-<a href="https://instagram.com/machadinesh2041" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="machadinesh2041" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@mdineshkumar0077" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="@mdineshkumar0077" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/m-dinesh-kumar-0a4a3a203/" class="fa fa-linkedin" target="_blank"></a>
+<a href="https://instagram.com/machadinesh2041" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="machadinesh2041" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@mdineshkumar0077" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="@mdineshkumar0077" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

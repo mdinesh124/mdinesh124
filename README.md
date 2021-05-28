@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm M. Dinesh Kumar</h1>
+<h1 align="center">Hi 👋, I am M. Dinesh Kumar</h1>
 <h3 align="center">A web developer enthusiast and melomaniac 🎵</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdinesh124&label=Profile%20views&color=0e75b6&style=flat" alt="mdinesh124" /> </p>
